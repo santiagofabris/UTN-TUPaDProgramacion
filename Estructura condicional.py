@@ -1,4 +1,4 @@
-#Actividades 
+#Actividades tp condicinal
 #1
 # pedimos los datos al usuatio
 edad = int(input ("ingrese su edad"))
