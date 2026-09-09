@@ -1,8 +1,6 @@
 #1
-
-for i in range(0,100):
+for i in range(1,100+1):
     print(i)
-
 #2
 
 num=int(input("ingrese un numero entero "))
